@@ -76,11 +76,27 @@ user yHAfhbYh
 user LR5p5ZyV
 user ipb44NZo
 
+; org nao
+
+user q09h7ObO
+user jMei6UUs
+
+; org maayfteam
+
+user aLhMtlmX
+user Ejgaop6d
+user huWiJt2H
+
 ; org terra nexus
 
 user AB96LVse
 user tLJsu0RM
 user DhoSUFz9
+
+; org tremendous tweaks
+
+user qH5KgHyT
+user WXUUy7yT
 
 ; I truly hate AI slop.
 
