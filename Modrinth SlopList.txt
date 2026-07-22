@@ -34,6 +34,24 @@ user iXcLjuWm
 user MBOuRnZu
 user YEm39O4Y
 user rARoF0GQ
+user tMcH8Nfm
+user 6CqE9sGM
+user Ou5fCEBa
+user wNXI6oEX
+user chs5BSWd
+user qH5KgHyT
+user lKkXXCoz
+user KMIHUqg1
+user q09h7ObO
+user XinYgdYU
+user KTSRt6rA
+user MP96BxsX
+user c4PxF7Sw
+user GMc4mHsr
+user lHE4ulOF
+user ELP5bqUp
+user ptEbKbMD
+user t0cNTtGP
 
 ; org terra nexus
 
@@ -57,3 +75,5 @@ https://modrinth.com/mod/stronger-armored-mobs
 https://modrinth.com/mod/mite-mod-updater
 https://modrinth.com/mod/autoexecutormod
 https://modrinth.com/mod/super-snowmen
+https://modrinth.com/plugin/ore-respawn
+https://modrinth.com/mod/clean-tab
