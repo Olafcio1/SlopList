@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2026-07-22
 // @description  Removes slop from Modrinth. "You're not just panicking—you're going insane."
-// @author       You
+// @author       Olafcio
 // @match        https://modrinth.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=modrinth.com
 // @grant        GM_getValue
