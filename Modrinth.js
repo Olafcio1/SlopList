@@ -11,23 +11,32 @@
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @run-at       document_start
-// @connect      gist.github.com
-// @connect      gist.githubusercontent.com
+// @connect      github.com
+// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 (function() {
-    let sloplist = GM_getValue("sloplist");
-    if (!sloplist || location.href.includes("reset-slop")) {  // TODO Script context menu to update this!!!
-                                                               //      Also an auto update every hour or something
+    let sloplist = GM_getValue("sloplist"),
+        manual = false;
+
+    // TODO Remove spaghetti code
+    if (!sloplist || (manual=location.href.includes("reset-slop"))) {  // TODO Script context menu to update this!!!
+                                                                       //      Also an auto update every hour or something
         (async () => {
+            if (manual)
+                alert("Performing manual slop update.\nClick OK to accept");
+
             let array = (await GM.xmlHttpRequest({
                 url: "https://github.com/Olafcio1/SlopList/raw/refs/heads/main/Modrinth%20SlopList.txt"
             })).responseText.replace("\r", "\n").split("\n");
 
             sloplist = ``;
 
+            let amount = 0;
+
             function block(projectID) {
                 sloplist += `.search > [role="list"]:first-of-type > div:has(a[href*="${projectID}"]) { display: none; }\n`;
+                amount++;
             }
 
             for (let slop of array) {
@@ -45,6 +54,9 @@
 
             GM_setValue("sloplist", sloplist);
             GM_addStyle(sloplist);
+
+            if (manual)
+                alert("Manual slop update performed.\nIndexed slops: " + amount);
         })();
 
         return;
