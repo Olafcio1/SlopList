@@ -120,3 +120,4 @@ https://modrinth.com/mod/autoexecutormod
 https://modrinth.com/mod/super-snowmen
 https://modrinth.com/plugin/ore-respawn
 https://modrinth.com/mod/clean-tab
+https://modrinth.com/mod/legacyranks
