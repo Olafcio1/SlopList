@@ -17,7 +17,8 @@
 
 (function() {
     let sloplist = GM_getValue("sloplist");
-    if (!sloplist) {
+    if (!sloplist || location.href.endsWith("?reset-slop")) {  // TODO Script context menu to update this!!!
+                                                               //      Also an auto update every hour or something
         (async () => {
             let array = (await GM.xmlHttpRequest({
                 url: "https://gist.github.com/Olafcio1/b0fbfa45764c491ba416b3da021aecdd/raw/8e9410ab62a5164a769ec1a9aad3db15654744be/modrinth_sloplist.txt"
