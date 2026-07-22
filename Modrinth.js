@@ -30,6 +30,7 @@
                 url: "https://github.com/Olafcio1/SlopList/raw/refs/heads/main/Modrinth%20SlopList.txt"
             })).responseText.replace("\r", "\n").split("\n");
 
+            array = new Set(array);
             sloplist = ``;
 
             let amount = 0;
