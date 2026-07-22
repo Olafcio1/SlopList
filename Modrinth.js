@@ -9,30 +9,44 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addStyle
+// @grant        GM_xmlhttpRequest
 // @run-at       document_start
+// @connect      gist.github.com
+// @connect      gist.githubusercontent.com
 // ==/UserScript==
 
-(async function() {
+(function() {
     let sloplist = GM_getValue("sloplist");
     if (!sloplist) {
-        let array = await (await fetch("https://gist.github.com/Olafcio1/b0fbfa45764c491ba416b3da021aecdd/raw/8e9410ab62a5164a769ec1a9aad3db15654744be/modrinth_sloplist.txt")).text().split("\n");
+        (async () => {
+            let array = (await GM.xmlHttpRequest({
+                url: "https://gist.github.com/Olafcio1/b0fbfa45764c491ba416b3da021aecdd/raw/8e9410ab62a5164a769ec1a9aad3db15654744be/modrinth_sloplist.txt"
+            })).responseText.split("\n");
 
-        sloplist = ``;
+            sloplist = ``;
 
-        function block(projectID) {
-            sloplist += `.search > [role="list"]:first-of-type(1) > div:has(a[href*="${projectID}"]) { display: none; }\n`;
-        }
-
-        for (let slop of array) {
-            if (slop.startsWith(";")) {
-                continue;
-            } else if (slop.startsWith("user ")) {
-            } else {
-                block(slop.substring(slop.lastIndexOf("/") + 1));
+            function block(projectID) {
+                sloplist += `.search > [role="list"]:first-of-type > div:has(a[href*="${projectID}"]) { display: none; }\n`;
             }
-        }
 
-        GM_setValue("sloplist", sloplist);
+            for (let slop of array) {
+                if (slop.startsWith(";") || !slop.trim()) {
+                    continue;
+                } else if (slop.startsWith("user ")) {
+                    let projects = await (await fetch(`https://api.modrinth.com/v3/user/${slop.substring(5)}/projects`)).json();
+                    if (projects instanceof Array)
+                        for (let { slug } of projects)
+                            block(slug);
+                } else {
+                    block(slop.substring(slop.lastIndexOf("/") + 1));
+                }
+            }
+
+            GM_setValue("sloplist", sloplist);
+            GM_addStyle(sloplist);
+        })();
+
+        return;
     }
 
     GM_addStyle(sloplist);
