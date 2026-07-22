@@ -17,7 +17,7 @@
 
 (function() {
     let sloplist = GM_getValue("sloplist");
-    if (!sloplist || location.href.endsWith("?reset-slop")) {  // TODO Script context menu to update this!!!
+    if (!sloplist || location.href.includes("reset_slop")) {  // TODO Script context menu to update this!!!
                                                                //      Also an auto update every hour or something
         (async () => {
             let array = (await GM.xmlHttpRequest({
