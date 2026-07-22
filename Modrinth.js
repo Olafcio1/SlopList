@@ -21,7 +21,7 @@
                                                                //      Also an auto update every hour or something
         (async () => {
             let array = (await GM.xmlHttpRequest({
-                url: "https://gist.github.com/Olafcio1/b0fbfa45764c491ba416b3da021aecdd/raw/8e9410ab62a5164a769ec1a9aad3db15654744be/modrinth_sloplist.txt"
+                url: "https://github.com/Olafcio1/SlopList/raw/refs/heads/main/Modrinth%20SlopList.txt"
             })).responseText.replace("\r", "\n").split("\n");
 
             sloplist = ``;
