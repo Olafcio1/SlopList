@@ -139,6 +139,21 @@ user BKXFbSA5
 user F1IdaMlE
 user 6CCMlN5z
 user BKXFbSA5
+user v6ibGeXf
+user rgVyj5mi
+user HLiF0qZZ
+
+; org naizo
+
+user QZWzG92Z
+user SVDVsyjd
+
+; org player2
+
+user C4TX4qqM
+user OvS05luu
+user NTZsmIlc
+user jGI2DAW5
 
 ; org gemteam
 
@@ -197,3 +212,4 @@ https://modrinth.com/mod/super-snowmen
 https://modrinth.com/plugin/ore-respawn
 https://modrinth.com/mod/clean-tab
 https://modrinth.com/mod/legacyranks
+https://modrinth.com/mod/boss-checklist-incendium-compatibility
