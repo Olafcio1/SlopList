@@ -44,7 +44,24 @@
                 if (slop.startsWith(";") || !slop.trim()) {
                     continue;
                 } else if (slop.startsWith("user ")) {
-                    let projects = await (await fetch(`https://api.modrinth.com/v3/user/${slop.substring(5)}/projects`)).json();
+                    let projects;
+                    let id = slop.substring(5);
+
+                    try {
+                        projects = GM_getValue("u" + id);
+
+                        //TODO Optimize
+                        if (projects)
+                            projects = JSON.parse(projects);
+                        else throw new Error();
+                    } catch {
+                        projects ??= await (await fetch(`https://api.modrinth.com/v3/user/${id}/projects`)).json();
+
+                        (async (projects,id) => {
+                            GM_setValue("u" + id, JSON.stringify(projects));
+                        })(projects,id);
+                    }
+
                     if (projects instanceof Array)
                         for (let { slug } of projects)
                             block(slug);
