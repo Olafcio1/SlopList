@@ -293,6 +293,30 @@ user W1Q5TmwG
 user JH2G59sF
 user HuJMaZzP
 user gWkwPUup
+user d9yagSR7
+user oKfcb8xk
+user wkZlbaUu
+user 5TgNgPb9
+user 9MN6LgG6
+user VS4WdM9d
+user PDcT4s6K
+user IEmG1gU4
+
+; org rankedpvp
+
+user LDuOo91x
+org S5eaybVz
+user EiOCDBmk
+user L8LnovrB
+
+; org cloudnetservice
+
+user BfGpOYlB
+org IywKT5Fn
+user amiPH93P
+
+; (protectcord)lobbylink is an ai-assisted project. and i HATE it. its spamming servers with NO reason.
+user 8oJN8P3k
 
 ; org valley smp
 
