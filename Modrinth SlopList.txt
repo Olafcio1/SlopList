@@ -150,6 +150,27 @@ user 5O2ayIiJ
 user Ql8Cgveh
 user C6ezvSB3
 user xCwLXVbq
+user 5A9JYA3c
+user p9Mupms0
+user MGf2bGd9
+user NccmrgBt
+user tw44WZdM
+user 2j2ulDrF
+user tuwMFTEn
+user u3edJIwT
+user TTb0UPCX
+user eRSgeSyF
+user dIc9ZlAC
+user WGqq6Hpy
+user sdTMwK3L
+user R8hM7clN
+user vMY84Sbm
+user hEeibPin
+
+; org seidr labs
+
+user HTLRYddT
+user v4lgyPmZ
 
 ; org naizo
 
@@ -221,3 +242,6 @@ https://modrinth.com/plugin/ore-respawn
 https://modrinth.com/mod/clean-tab
 https://modrinth.com/mod/legacyranks
 https://modrinth.com/mod/boss-checklist-incendium-compatibility
+https://modrinth.com/mod/pvpsense
+https://modrinth.com/mod/resbundler
+https://modrinth.com/mod/patch-for-redstone
