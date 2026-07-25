@@ -219,69 +219,69 @@ user CKVM2GMj
 
 ; org ultra development
 
-user Ihw6XPt0
+org Ihw6XPt0
 user LzUsCdG5
 user 5wBospS5
 
 ; minexlnd
 
-user X56PevrE
+org X56PevrE
 user nzxYGe4z
 user Pt6TBiVo
 
 ; org seidr labs
 
-user HTLRYddT
+org HTLRYddT
 user v4lgyPmZ
 
 ; org naizo
 
-user QZWzG92Z
+org QZWzG92Z
 user SVDVsyjd
 
 ; org player2
 
-user C4TX4qqM
+org C4TX4qqM
 user OvS05luu
 user NTZsmIlc
 user jGI2DAW5
 
 ; org gemteam
 
-user KgGrJHb3
+org KgGrJHb3
 user VKbtZKFI
 user RPZbvvMB
 
 ; org underworld
 
-user jCMMWfxn
+org jCMMWfxn
 user Ugf6uxck
 
 ; org ala team
 
-user SLjtVnw2
+org SLjtVnw2
 user aSegDz6f
 
 ; org nao
 
-user q09h7ObO
+org q09h7ObO
 user jMei6UUs
 
 ; org maayfteam
 
-user aLhMtlmX
+org aLhMtlmX
 user Ejgaop6d
 user huWiJt2H
 
 ; org terra nexus
 
-user AB96LVse
+org AB96LVse
 user tLJsu0RM
 user DhoSUFz9
 
 ; org tremendous tweaks
 
-user qH5KgHyT
+org qH5KgHyT
 user WXUUy7yT
 
 ; I truly hate AI slop.
