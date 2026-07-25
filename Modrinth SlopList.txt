@@ -184,6 +184,24 @@ user tMDUqvzi
 user 83pnRQ3Z
 user bMGi9gTe
 user HI1E6E1A
+user gPN28jNe
+user 8Gwkhozx
+user z3fCs7y6
+user 22bDX4up
+user eq9WUJkJ
+user SPWdjBnn
+user wUDMiCBD
+user mvAl77fO
+user 5eIr3k1s
+user XGysjxQQ
+user R7mldm1D
+user dKWdae4o
+user WU1lCWlJ
+user miSkqMpl
+
+; phoenixra is the author of visor which is assisted with ai
+
+user CKVM2GMj
 
 ; org ultra development
 
@@ -275,3 +293,4 @@ https://modrinth.com/mod/boss-checklist-incendium-compatibility
 https://modrinth.com/mod/pvpsense
 https://modrinth.com/mod/resbundler
 https://modrinth.com/mod/patch-for-redstone
+https://modrinth.com/mod/logistics
