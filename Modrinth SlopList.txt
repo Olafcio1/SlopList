@@ -225,19 +225,19 @@ user 5wBospS5
 
 ; minexlnd
 
-org X56PevrE
-user nzxYGe4z
-user Pt6TBiVo
+user X56PevrE
+org nzxYGe4z
+org Pt6TBiVo
 
 ; org seidr labs
 
-org HTLRYddT
-user v4lgyPmZ
+user HTLRYddT
+org v4lgyPmZ
 
 ; org naizo
 
-org QZWzG92Z
-user SVDVsyjd
+user QZWzG92Z
+org SVDVsyjd
 
 ; org player2
 
