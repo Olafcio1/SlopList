@@ -1,3 +1,18 @@
+;
+; Modrinth mods, WHAT THE FUCK ARE YOU DOING??
+;
+; Here's a list of accounts that mostly utilize 100% fully AI slop.
+; Yet, you moderators, YOUR ONLY JOB is to make sure that all these
+;      projects are non-sloppic.
+;
+; So WHAT THE FUCK ARE YOU DOING?!
+; I made a whole list (this file) to combat ai slop on your platform.
+; Why did I have to? Why can't YOU do this?
+;
+; If you do believe that Modrinth should be a good place, ban all these
+; accounts. It's mostly user IDs so it should be quite easy.
+;
+
 user 5piWFntX
 user R3kg3uWK
 user S8aO5nsg
@@ -315,6 +330,8 @@ user X27bXuSF
 user I5YhIYVC
 user X27bXuSF
 user 7EKGqJT5
+user rUdaHrMv
+user U6MQFITm
 
 ; org eXclusive
 
