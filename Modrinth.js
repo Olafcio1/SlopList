@@ -43,6 +43,28 @@
             for (let slop of array) {
                 if (slop.startsWith(";") || !slop.trim()) {
                     continue;
+                } else if (slop.startsWith("org ")) {
+                    let projects;
+                    let id = slop.substring(4);
+
+                    try {
+                        projects = GM_getValue("o" + id);
+
+                        //TODO Optimize
+                        if (projects)
+                            projects = JSON.parse(projects);
+                        else throw new Error();
+                    } catch {
+                        projects ??= await (await fetch(`https://api.modrinth.com/v3/organization/${id}/projects`)).json();
+
+                        (async (projects,id) => {
+                            GM_setValue("o" + id, JSON.stringify(projects));
+                        })(projects,id);
+                    }
+
+                    if (projects instanceof Array)
+                        for (let { slug } of projects)
+                            block(slug);
                 } else if (slop.startsWith("user ")) {
                     let projects;
                     let id = slop.substring(5);
