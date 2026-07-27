@@ -91,6 +91,8 @@
                 nocache: true
             })).responseText.replace("\r", "\n").split("\n");
 
+            let oldSL = sloplist;
+
             array = new Set(array);
             sloplist = ``;
 
@@ -101,8 +103,10 @@
                 amount++;
             }
 
-            let i = 0;
+            let i = 0, added = 0;
             for (let slop of array) {
+                let slopids = [];
+
                 if (slop.startsWith(";") || !slop.trim()) {
                     i++;
                     continue;
@@ -129,9 +133,12 @@
                         })(projects,id);
                     }
 
-                    if (projects instanceof Array)
-                        for (let { slug } of projects)
+                    if (projects instanceof Array) {
+                        for (let { slug } of projects) {
                             block(slug);
+                            slopids.push(slug);
+                        }
+                    }
                 } else if (slop.startsWith("user ")) {
                     let projects;
                     let id = slop.substring(5);
@@ -155,19 +162,28 @@
                         })(projects,id);
                     }
 
-                    if (projects instanceof Array)
-                        for (let { slug } of projects)
+                    if (projects instanceof Array) {
+                        for (let { slug } of projects) {
                             block(slug);
+                            slopids.push(slug);
+                        }
+                    }
                 } else {
-                    block(slop.substring(slop.lastIndexOf("/") + 1));
+                    slopids.push(slop.substring(slop.lastIndexOf("/") + 1));
+                    block(slopids[0]);
                 }
+
                 container.style.setProperty("--sloplist-full",Math.round((i++/array.size)*100)+"%");
+
+                for (let slopid of slopids)
+                    if (!oldSL?.includes?.('"' + slopid + '"'))
+                        added++;
             }
 
             GM_setValue("sloplist", sloplist);
             GM_addStyle(sloplist);
 
-            container.children[0].append((manual ? "Manual" : "First-time") + " slop update performed.\nIndexed slops: " + amount);
+            container.children[0].append((manual ? "Manual" : "First-time") + " slop update performed.\nIndexed slops: " + amount + " (+" + added + ")");
 
             let btn = document.createElement("sloplist-btn");
             btn.innerText = 'Ok';
