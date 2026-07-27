@@ -20,7 +20,7 @@
         manual = false;
 
     // TODO Remove spaghetti code
-    if (!sloplist || (manual=location.href.includes("reset-slop"))) {  // TODO Script context menu to update this!!!
+    if (!sloplist || (manual=(location.href.includes("force-reset-slop")?"reset":(location.href.includes("reset-slop")?"add":false)))) {  // TODO Script context menu to update this!!!
                                                                        //      Also an auto update every hour or something
         (async () => {
             if (manual)
@@ -110,6 +110,10 @@
                     let id = slop.substring(4);
 
                     try {
+                        //Force reset
+                        if (manual == "reset")
+                            throw new Error();
+
                         projects = GM_getValue("o" + id);
 
                         //TODO Optimize
@@ -132,6 +136,10 @@
                     let id = slop.substring(5);
 
                     try {
+                        //Force reset
+                        if (manual == "reset")
+                            throw new Error();
+
                         projects = GM_getValue("u" + id);
 
                         //TODO Optimize
