@@ -535,6 +535,12 @@ user Ib6PbRh2
 user uL4ojEGQ
 user PpqdZtHC
 ;user mZIBvozv <--unsure
+user HDIer0nR
+org idgND4uw
+user uryvpBlK
+user 2ThAudan
+user PkYzOdRE
+user yVQFzTm0
 
 ; org eXclusive
 
