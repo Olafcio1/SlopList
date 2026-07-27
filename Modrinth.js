@@ -87,7 +87,8 @@
             document.body.appendChild(container);
 
             let array = (await GM.xmlHttpRequest({
-                url: "https://github.com/Olafcio1/SlopList/raw/refs/heads/main/Modrinth%20SlopList.txt"
+                url: "https://github.com/Olafcio1/SlopList/raw/refs/heads/main/Modrinth%20SlopList.txt",
+                nocache: true
             })).responseText.replace("\r", "\n").split("\n");
 
             array = new Set(array);
