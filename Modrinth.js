@@ -10,6 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
+// @grant        GM_registerMenuCommand
+// @grant        GM_openInTab
 // @run-at       document_start
 // @connect      github.com
 // @connect      raw.githubusercontent.com
@@ -193,8 +195,7 @@
     }
     
     // TODO Remove spaghetti code
-    if (!sloplist || (manual=(location.href.includes("force-reset-slop")?"reset":(location.href.includes("reset-slop")?"add":false)))) {  // TODO Script context menu to update this!!!
-                                                                       //      Also an auto update every hour or something
+    if (!sloplist || (manual=(location.href.includes("force-reset-slop")?"reset":(location.href.includes("reset-slop")?"add":false)))) {
         (async () => {
             if (manual)
                 alert("Performing manual slop update.\nClick OK to accept");
@@ -222,6 +223,18 @@
             el.remove();
         }, { once: true });
     }
+
+    GM_registerMenuCommand("Check sloplist updates", () => {
+        PerformUpdate();
+    }, "check-updates");
+
+    GM_registerMenuCommand("Visit script page", () => {
+        GM_openInTab("https://github.com/Olafcio1/SlopList", { active: true });
+    }, "visit-script");
+
+    GM_registerMenuCommand("Visit Olafcio1 page", () => {
+        GM_openInTab("https://github.com/Olafcio1", { active: true });
+    }, "visit-script");
 
     GM_addStyle(sloplist);
 })();
