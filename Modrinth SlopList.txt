@@ -648,6 +648,10 @@ user xjFBL1ZA
 user tJqvCGcE
 user I9iYO1Ey
 org 3yuqLNj3
+org qvjz8T8X
+user bXtDjdhn
+user Y3UoclKU
+user UvXjDS11
 
 ; the dropper mod
 
