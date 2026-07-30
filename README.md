@@ -10,8 +10,8 @@ To install the userscripts, you have to:
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/)/[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. If on a Chromium-based browser:
-  1. Enable `Developer Mode` in chrome://extensions
-  2. Restart your browser
+    1. Enable `Developer Mode` in chrome://extensions
+    2. Restart your browser
 3. Pin the icon of your chosen userscript extension
 4. Click on it, and then select `Create a new script...`
 5. Click CTRL+A, and paste the full script you want to install
