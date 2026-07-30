@@ -646,6 +646,8 @@ user KeugbZ5B
 user XvzYLWMi
 user xjFBL1ZA
 user tJqvCGcE
+user I9iYO1Ey
+org 3yuqLNj3
 
 ; the dropper mod
 
