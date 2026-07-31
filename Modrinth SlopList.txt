@@ -860,3 +860,4 @@ https://modrinth.com/mod/pvpsense
 https://modrinth.com/mod/resbundler
 https://modrinth.com/mod/patch-for-redstone
 https://modrinth.com/mod/logistics
+https://modrinth.com/plugin/solver
