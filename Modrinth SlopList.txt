@@ -659,7 +659,13 @@ user 4bjOZ2xN
 user P4gfdD7G
 user DzZsRaGP
 user 6ywEueaU
+; Daily update day 2
 user x5kUND0j
+user 9W9eZqqk
+org EpRy9B8e
+user dukLiEms
+user Tx8Fiad2
+user rRljU7NT
 
 ; the dropper mod
 
