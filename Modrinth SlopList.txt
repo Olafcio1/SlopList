@@ -915,6 +915,13 @@ user f3UkA0PM
 user cYujrnt6
 user 7gkYhHnn
 user Zw9MpKM4
+user ZolQNcFG
+org co5ggzWH
+user sFz0zONL
+user 5qMnK637
+user fQKy1wLK
+user AuJfI6ii
+user F2nrqugk
 
 ; modrinth sucks
 ; these rs dont care about shit
