@@ -862,6 +862,7 @@ user J2zppNjM
 user bJnQ2AqK
 user HTRZfY2Y
 ; Daily update day 4
+; i already marked my projects as "im moving away from modrinth"
 user NFkZIZZk
 user n11hL7wn
 user 4Bzub7BJ
@@ -871,6 +872,49 @@ user FYvY2Opq
 user T8Q7oyRI
 user CL9wiNmk
 user 5KZhuIC3
+org LhVSRPai
+user u0BKTC2j
+user WjvK5iGs
+user jwi1ZZdv
+user hWVQdJog
+user KtjYLi0P
+user cUIa2qs0
+user uKqNaGaQ
+user eV31FfMC
+user 7TlxMBdM
+user riAQ4R1m
+user TWrLvEAT
+user nAHMtP49
+user rDrEIpRY
+user yZdTwV97
+user Dda4529l
+user OkCBberh
+org OVdCVXaO
+user NkfZ7wGW
+user JDVNndwd
+org DtRXOIPG
+user dPY1DtXS
+org z8ecEJC8
+user c47F81sw
+user hL3uaQ2I
+user dgHCFexP
+user eDXbDdag
+user bADrtWR2
+user eVjUGwrQ
+user lmqZIAZM
+user S3yjDkrQ
+user UYqGb3os
+user xTRTYPYP
+user Z9ylZ5GB
+user L0Zgzrey
+user gtv7gIO5
+user nf6sqdIN
+user 9t1AzdwI
+user e1NbqgUB
+user f3UkA0PM
+user cYujrnt6
+user 7gkYhHnn
+user Zw9MpKM4
 
 ; modrinth sucks
 ; these rs dont care about shit
