@@ -968,6 +968,19 @@ user RVdkUHFS
 user 4sQu7U38
 user 3JKiebB0
 user 2Lmy3YNf
+user MMggk2w8
+user aF1jp6Jl
+user PkxJvI1Q
+org UTrAht4n
+user te2WdrCv
+user 2L2LZ0ni
+user KjYscEX0
+user CHxpIkpp
+user TulymUYA
+org axnLo49H
+user O1mxgdPV
+org KJerSG48
+user riBioygT
 
 ; modrinth sucks
 ; these rs dont care about shit
