@@ -1,4 +1,9 @@
 ;
+; Modrinth and Spark Universe, incase you want to use this list to block, flag or view these AI sloppers as AI, feel free.
+; I am granting Rinth Inc. a permanent right to use this list for blocking or negatively marking the listed users, organizations and projects, without having to attribute me.
+;
+
+;
 ; Modrinth mods, WHAT THE FUCK ARE YOU DOING??
 ;
 ; Here's a list of accounts that mostly utilize 100% fully AI slop.
@@ -981,6 +986,14 @@ org axnLo49H
 user O1mxgdPV
 org KJerSG48
 user riBioygT
+org DN59fvIR
+user Cr99DIBA
+user ye6BVMF3
+user RU3VMhuQ
+user 5tF7irow
+user 5smvsEH8
+user Gcyajprf
+user CHxpIkpp
 
 ; modrinth sucks
 ; these rs dont care about shit
