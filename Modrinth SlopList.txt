@@ -4,18 +4,12 @@
 ;
 
 ;
-; Modrinth mods, WHAT THE FUCK ARE YOU DOING??
+; Modrinth has added rules AGAINST AI!!!
+; Okay this kinda w but cant participate yet.
+; Because the report spamming may be done only in 45 days.
 ;
-; Here's a list of accounts that mostly utilize 100% fully AI slop.
-; Yet, you moderators, YOUR ONLY JOB is to make sure that all these
-;      projects are non-sloppic.
-;
-; So WHAT THE FUCK ARE YOU DOING?!
-; I made a whole list (this file) to combat ai slop on your platform.
-; Why did I have to? Why can't YOU do this?
-;
-; If you do believe that Modrinth should be a good place, ban all these
-; accounts. It's mostly user IDs so it should be quite easy.
+; I hope they don't ignore this list :)
+; They probably will, but let's get my hopes up....
 ;
 
 user 5piWFntX
