@@ -146,6 +146,20 @@
                 this.#cid = (this.#cid + 1) % this.#channels.length;
             }
 
+            async finish(pollingDelay = 200) {
+                while (true) {
+                    exit: {
+                        for (let chan of this.#channels)
+                            if (chan.length != 0)
+                                break exit;
+
+                        return;
+                    }
+
+                    await new Promise(rsv => setTimeout(rsv, pollingDelay));
+                }
+            }
+
             static paused = 0;
 
             static async #handle(list, pollingDelay) {
@@ -257,13 +271,17 @@
                     }
                 }, 40);
             } else {
-                executor3.execute(() => {
+                await executor3.execute(() => {
                     block(slop.substring(slop.lastIndexOf("/") + 1));
                 });
             }
 
             container.style.setProperty("--sloplist-full",Math.round((i++/array.size)*100)+"%");
         }
+
+        await executor.finish();
+        await executor2.finish();
+        await executor3.finish();
 
         GM_setValue("sloplist", sloplist);
         GM_setValue("lastupdate", Date.now());
