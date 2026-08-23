@@ -12,6 +12,15 @@
 ; They probably will, but let's get my hopes up....
 ;
 
+; Around 38 days until (supposedly) Modrinth is supposed to end the AI grace period.
+; Which means blocking ai slop.
+; Like this is so extremely stupid because if someone creates a new project at this time then
+;      why would it be allowed to be ai slop? Because I think they should already accept reports
+;      for content created after their announcement.
+; They are going to deal with report spamming... like, either they care about this list, or I'm gonna
+;      auto report by it.
+; What should I say?
+
 user 5piWFntX
 user R3kg3uWK
 user S8aO5nsg
