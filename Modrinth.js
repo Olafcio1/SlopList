@@ -219,12 +219,14 @@
         `;
 
         (el = document.querySelector("#update-sloplist-btn")).addEventListener("click", () => {
+            manual = true;
             PerformUpdate();
             el.remove();
         }, { once: true });
     }
 
     GM_registerMenuCommand("Check sloplist updates", () => {
+        manual = true;
         PerformUpdate();
     }, "check-updates");
 
