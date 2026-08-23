@@ -1144,6 +1144,21 @@ user d2BIYUNL
 user XW0oh8Ig
 user kRWD02Ps
 user RXKdVpOO
+user z11AqOSp
+user zBJGRclu
+user dr5YwFQt
+user hbTb7p8a
+user TFM35OfS
+user Fp1di8rI
+
+; szymex dev studio
+org j6OsOL0r
+user lGtbyQjl
+
+; venorix
+org m3NsgNLZ
+user N0cmb4CM
+user Goy9sjVl
 
 ; feast dev
 user cDmO2UDS
