@@ -232,9 +232,9 @@
                 continue;
             } else if (slop.startsWith("org ")) {
                 const id = slop.substring(4);
+                const projects = getStorage("o" + id);
 
-                await executor.executeTimeouted(async () => {
-                    let projects = getStorage("o" + id);
+                await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/organization/${id}/projects`);
                     }
@@ -252,9 +252,9 @@
                 }, 40);
             } else if (slop.startsWith("user ")) {
                 const id = slop.substring(5);
+                const projects = getStorage("u" + id);
 
-                await executor.executeTimeouted(async () => {
-                    let projects = getStorage("u" + id);
+                await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/user/${id}/projects`);
                     }
