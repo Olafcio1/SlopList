@@ -234,7 +234,7 @@
                 const id = slop.substring(4);
                 let projects = getStorage("o" + id);
 
-                (async (projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
+                await (async (projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/organization/${id}/projects`);
                     }
@@ -254,7 +254,7 @@
                 const id = slop.substring(5);
                 let projects = getStorage("u" + id);
 
-                (async (projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
+                await (async (projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/user/${id}/projects`);
                     }
