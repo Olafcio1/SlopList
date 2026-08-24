@@ -232,9 +232,9 @@
                 continue;
             } else if (slop.startsWith("org ")) {
                 const id = slop.substring(4);
-                const projects = getStorage("o" + id);
+                let projects = getStorage("o" + id);
 
-                await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
+                ((projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/organization/${id}/projects`);
                     }
@@ -249,12 +249,12 @@
                             executor3.execute(() => block(slug));
                         }
                     }
-                }, 40);
+                }, 40))(projects);
             } else if (slop.startsWith("user ")) {
                 const id = slop.substring(5);
-                const projects = getStorage("u" + id);
+                let projects = getStorage("u" + id);
 
-                await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
+                ((projects) => await executor[projects ? 'execute' : 'executeTimeouted'](async () => {
                     if (!projects) {
                         projects = await doRequest(`https://api.modrinth.com/v3/user/${id}/projects`);
                     }
@@ -269,7 +269,7 @@
                             executor3.execute(() => block(slug));
                         }
                     }
-                }, 40);
+                }, 40))(projects);
             } else {
                 await executor3.execute(() => {
                     block(slop.substring(slop.lastIndexOf("/") + 1));
