@@ -1194,6 +1194,13 @@ user ZA0mps08
 user LInX4Fr7
 user c2lewGhg
 
+; Daily update day 10
+; mogdop team
+
+org I9MBLpKB
+user BM3eyAeV
+user PG68FUVy
+
 ; hexbyte
 
 org TwLS1YTc
