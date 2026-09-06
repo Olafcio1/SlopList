@@ -1803,6 +1803,10 @@ user JUXOkwOQ
 user Yez2IDuT
 user ll7xOEmJ
 user O2nDHLiA
+user RcjkA1sI
+user WLyJAy6V
+
+; omg this sloplist lags so bad on lowend pcs
 
 ; ghost fucking mess
 user a6eRm92L
