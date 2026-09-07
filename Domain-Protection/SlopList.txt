@@ -43,6 +43,7 @@ ai: {
   gemini.google
   geminiimageai.net
   geminiomni-ai.com
+  claude.com
 
   clones-qwen: {
     qwen3.app
@@ -97,6 +98,7 @@ insane-fuckness: {
   artlist.io
   media.io
   vercel.app
+  sureprompts.com
 }
 
 supporting: {
@@ -137,6 +139,7 @@ blogs: {
   gemini-cnblog.com
   hongkongaipodcast.com
   thewindowsclub.com
+  buildfastwithai.com
 }
 
 news: {
