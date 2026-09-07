@@ -44,6 +44,8 @@ ai: {
   geminiimageai.net
   geminiomni-ai.com
   claude.com
+  perplexityai.app
+  perplex.com
 
   clones-qwen: {
     qwen3.app
@@ -99,6 +101,7 @@ insane-fuckness: {
   media.io
   vercel.app
   sureprompts.com
+  glbgpt.com
 }
 
 supporting: {
@@ -140,6 +143,7 @@ blogs: {
   hongkongaipodcast.com
   thewindowsclub.com
   buildfastwithai.com
+  gamsgo.com
 }
 
 news: {
@@ -147,6 +151,8 @@ news: {
   clubic.com
   startupfortune.com
   ctrl-ai-del.com
+  perplexityaimagazine.com
+  zdnet.com
 }
 
 politics: {
