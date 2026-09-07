@@ -14,6 +14,7 @@ ai: {
   chatgpt.com
   gemini.google.com
   ai.google
+  ai.google.dev
   aistudio.google.com
   aichat.org
   chat-ai.com
@@ -26,6 +27,26 @@ ai: {
   chatbotai.com
   chatbotai.co
   chatbot.app
+  geminigen.link
+  makersuite.google.com
+  deepwiki.com
+  chatai.org
+  talkai.info
+  aifreeforever.com
+  gemini3.us
+  minitoolai.com
+  freechat.org
+  felioai.com
+
+  clones-qwen: {
+    qwen3.app
+    qwen3lm.com
+    qwen-ai.com
+    qwencloud.com
+    qwen.me
+    qwen35.com
+    qwen2.org
+  }
 
   //qwen.ai
   //google.ai
@@ -45,6 +66,22 @@ insane-fuckness: {
   //toolify.ai
   topai.tools
   theailibrary.co
+  huggingface.co
+  lmmarketcap.com
+  llm-stats.com
+  deepmind.google
+  askingtips.com
+  ollama.com
+  model.box
+  ai-tldr.dev
+  cometapi.com
+  cloudprice.net
+  analyticsvidhya.com
+  aplicatiiai.ro
+  aifreeapi.com
+  gemini-china.org
+  penchan.co
+  gemini-cn-guide.com
 }
 
 supporting: {
@@ -52,6 +89,12 @@ supporting: {
   top10.com
   dorik.com
   thegeekstreet.com
+  geekflare.com
+  techjournal.org
+  machinebrief.com
+  roboflow.com
+  bitrue.com
+  puter.com
 }
 
 browsers: {
@@ -63,6 +106,35 @@ browsers: {
     google.com/chrome
     firefox.com
   }
+}
+
+news[off]: {
+  martincid.com
+}
+
+blogs: {
+  geeky-gadgets.com
+  datacamp.com
+  rottenwifi.com
+  revoblog.ro
+  prompturiai.ro
+  despreai.ro
+  gemini-cnblog.com
+}
+
+news: {
+  sukcesai.com
+  clubic.com
+  startupfortune.com
+}
+
+politics: {
+  donaldjtrump.com
+}
+
+companies[off]: {
+  alibabacloud.com
+  //facebook.com
 }
 
 git[off]: {
