@@ -46,6 +46,12 @@ ai: {
   claude.com
   perplexityai.app
   perplex.com
+  gen-image.com
+  beautyai.fun
+  adpexai.com
+  autopilotshorts.com
+  dreamfaceapp.com
+  bange.io
 
   clones-qwen: {
     qwen3.app
@@ -102,6 +108,7 @@ insane-fuckness: {
   vercel.app
   sureprompts.com
   glbgpt.com
+  aisparkhub.com
 }
 
 supporting: {
@@ -144,6 +151,17 @@ blogs: {
   thewindowsclub.com
   buildfastwithai.com
   gamsgo.com
+  airmeet.com
+  sigmawire.net
+  metaverseplanet.net
+  bestofai.io
+  builtin.com
+  best-ai.org
+  thegeekstreet.com
+  aitoptools.com
+  rankmyai.com
+  aitools.xyz
+  whataicandotoday.com
 }
 
 news: {
