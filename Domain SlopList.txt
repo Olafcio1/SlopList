@@ -1,0 +1,73 @@
+; A list of domains, that, are, slop.
+; It's kinda opinionated, but, let's be honest. TruthSocial is trump+ai slop. So who cares about it.
+; No one will be forced to use this list. There will be a separate userscript for it;
+;    if I do an extension, each merged userscript (that is a list client) would be togglable.
+; I know not every website in this list is slop;
+;   that's why there's categories.
+
+creeper.pl
+truthsocial.com
+
+ai: {
+  deepai.org
+  openai.com
+  chatgpt.com
+  gemini.google.com
+  ai.google
+  aistudio.google.com
+  aichat.org
+  chat-ai.com
+  notegpt.io
+  hotbot.com
+  copilot.microsoft.com
+  aichatting.net
+  talkie-ai.com
+  aichat.org
+  chatbotai.com
+  chatbotai.co
+  chatbot.app
+
+  //qwen.ai
+  //google.ai
+  //free.ai
+  //duck.ai
+  //z.ai
+  //chatx.ai
+  //character.ai
+
+  {
+    *.ai
+  }
+}
+
+insane-fuckness: {
+  //lindy.ai
+  //toolify.ai
+  topai.tools
+  theailibrary.co
+}
+
+supporting: {
+  webcurate.co
+  top10.com
+  dorik.com
+  thegeekstreet.com
+}
+
+browsers: {
+  arc.net
+  diabrowser.com
+  sigmabrowser.com
+
+  [off]: {
+    google.com/chrome
+    firefox.com
+  }
+}
+
+git[off]: {
+  [ alternative ] = "codeberg.org"
+
+  github.com
+  gitlab.com
+}
