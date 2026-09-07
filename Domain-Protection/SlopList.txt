@@ -37,6 +37,12 @@ ai: {
   minitoolai.com
   freechat.org
   felioai.com
+  notebook.google
+  codeassist.google
+  freeassist.ai
+  gemini.google
+  geminiimageai.net
+  geminiomni-ai.com
 
   clones-qwen: {
     qwen3.app
@@ -82,6 +88,15 @@ insane-fuckness: {
   gemini-china.org
   penchan.co
   gemini-cn-guide.com
+  resumegemini.com
+  cvgemini.com
+  portfolioxai.com
+  resume.ai
+  gptcleanup.com
+  thetoolsverse.com
+  artlist.io
+  media.io
+  vercel.app
 }
 
 supporting: {
@@ -120,12 +135,15 @@ blogs: {
   prompturiai.ro
   despreai.ro
   gemini-cnblog.com
+  hongkongaipodcast.com
+  thewindowsclub.com
 }
 
 news: {
   sukcesai.com
   clubic.com
   startupfortune.com
+  ctrl-ai-del.com
 }
 
 politics: {
@@ -135,6 +153,7 @@ politics: {
 companies[off]: {
   alibabacloud.com
   //facebook.com
+  //.google.com
 }
 
 git[off]: {
