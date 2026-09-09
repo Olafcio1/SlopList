@@ -1806,6 +1806,9 @@ user O2nDHLiA
 user RcjkA1sI
 user WLyJAy6V
 
+; Daily update day 16
+user 5mqMkOWm
+
 ; omg this sloplist lags so bad on lowend pcs
 
 ; ghost fucking mess
