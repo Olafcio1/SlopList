@@ -1817,6 +1817,7 @@ user Ob9y3e0Y
 user d6D1TrnV
 user hv4qOJ82
 user JkXCKLVY
+user DOIltxTT
 
 ; omg this sloplist lags so bad on lowend pcs
 
