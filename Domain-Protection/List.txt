@@ -109,6 +109,7 @@ insane-fuckness: {
   sureprompts.com
   glbgpt.com
   aisparkhub.com
+  develocity.ai
 }
 
 supporting: {
@@ -122,6 +123,10 @@ supporting: {
   roboflow.com
   bitrue.com
   puter.com
+
+  [off]: {
+    gradle.org
+  }
 }
 
 browsers: {
