@@ -1,0 +1,16 @@
+// This list includes user IDs of people that use AI to create slop.
+// Note that no actions mentioned in this document are endorsed.
+// Every categorization is purely for organization of the ids.
+// For example, botting IS BAD and you SHOULD NOT do it!
+
+// Only people that use AI for these things should be in this list.
+// If someone e.g. bots in minecraft but hates ai and doesn't use it, he shouldn't be in this file.
+
+minecraft-modding: {
+  1219277841250779146
+}
+
+minecraft-botting: {
+  1248628552719405100
+  1300939095048065094
+}
