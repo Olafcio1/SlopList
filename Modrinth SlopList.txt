@@ -1824,6 +1824,15 @@ user JumoRlb7
 
 ; Daily update day 20
 user 6CxCV5TX
+user 1kZ82g24
+user Jy4XiBBD
+user RijPskFQ
+user QATd27mh
+user i0vGXJks
+user 8cHa9Ayw
+user LEdaCwVo
+user Vzzvqu0O
+user f1G7WWje
 
 ; omg this sloplist lags so bad on lowend pcs
 
