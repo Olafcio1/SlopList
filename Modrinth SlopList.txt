@@ -1822,6 +1822,9 @@ user DOIltxTT
 ; Daily update day 19
 user JumoRlb7
 
+; Daily update day 20
+user 6CxCV5TX
+
 ; omg this sloplist lags so bad on lowend pcs
 
 ; ghost fucking mess
