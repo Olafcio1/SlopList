@@ -4,22 +4,10 @@
 ;
 
 ;
-; Modrinth has added rules AGAINST AI!!!
-; Okay this kinda w but cant participate yet.
-; Because the report spamming may be done only in 45 days.
+; Modrinth has added rules against AI, yet they still do not allow reports regarding it.
+; Do I have a stroke or did the supposed *grace period* expire a long time ago?
+; It will never happen I guess... claude users don't block claude users (:
 ;
-; I hope they don't ignore this list :)
-; They probably will, but let's get my hopes up....
-;
-
-; Around 38 days until (supposedly) Modrinth is supposed to end the AI grace period.
-; Which means blocking ai slop.
-; Like this is so extremely stupid because if someone creates a new project at this time then
-;      why would it be allowed to be ai slop? Because I think they should already accept reports
-;      for content created after their announcement.
-; They are going to deal with report spamming... like, either they care about this list, or I'm gonna
-;      auto report by it.
-; What should I say?
 
 user 5piWFntX
 user R3kg3uWK
@@ -1833,6 +1821,12 @@ user 8cHa9Ayw
 user LEdaCwVo
 user Vzzvqu0O
 user f1G7WWje
+user kFc0bhbw
+user teitvxfX
+
+; Modrinth still did NOT ban ai.
+; ...
+; Reports regarding its usage cannot be submitted.
 
 ; omg this sloplist lags so bad on lowend pcs
 
