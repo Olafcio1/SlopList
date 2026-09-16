@@ -1823,6 +1823,8 @@ user Vzzvqu0O
 user f1G7WWje
 user kFc0bhbw
 user teitvxfX
+user RY3omZoR
+user SGYMJnW0
 
 ; Modrinth still did NOT ban ai.
 ; ...
