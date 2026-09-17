@@ -1826,6 +1826,12 @@ user teitvxfX
 user RY3omZoR
 user SGYMJnW0
 
+; Daily update day 21
+user DLrDldc2
+user EMYx6kL8
+
+; immersive portals :/
+
 ; Modrinth still did NOT ban ai.
 ; ...
 ; Reports regarding its usage cannot be submitted.
