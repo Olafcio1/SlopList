@@ -35,3 +35,7 @@ misc-desc: {
 "programming" (ai prompting LOL): {
   1311929231336542239
 }
+
+i dont even know: {
+  710820351734710325
+}
