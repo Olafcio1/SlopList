@@ -197,6 +197,7 @@ git[off]: {
 
 minecraft-modding[off]: {
   modrinth.com
+  fabricmc.net
 
   ; Modrinth uses claude everywhere, same about fabric team, which some members of are in modrinth's team
 }
