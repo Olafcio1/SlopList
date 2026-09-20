@@ -38,5 +38,5 @@ misc-desc: {
 
 i dont even know: {
   710820351734710325
-  1203961545713909793 i want to k th r omfg
+  1203961545713909793
 }
