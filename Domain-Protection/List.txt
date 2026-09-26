@@ -167,6 +167,7 @@ blogs: {
   rankmyai.com
   aitools.xyz
   whataicandotoday.com
+  webnetstudio.co.in
 }
 
 news: {
