@@ -1,3 +1,4 @@
+
 ;
 ; Modrinth and Spark Universe, incase you want to use this list to block, flag or view these AI sloppers as AI, feel free.
 ; I am granting Rinth Inc. a permanent right to use this list for blocking or negatively marking the listed users, organizations and projects, without having to attribute me.
@@ -75,7 +76,6 @@ user 9d7LQUCN
 user BXju9L0c
 user m3vDIF5Q
 org 77zOXTBN
-user chs5BSWd
 user vbafBQ5K
 user e9tB0mNr
 user F6hjGXIm
@@ -84,7 +84,6 @@ user nW3m89La
 user LR5p5ZyV
 user PQSyqqRb
 user yHAfhbYh
-user LR5p5ZyV
 user ipb44NZo
 user 9b2Tl27J
 user O9CylJsP
@@ -140,7 +139,6 @@ user eXmnvG1w
 user TvW5tTqI
 user dBJlGOlf
 user FFbAWXW0
-user TImyFoAk
 user QXvrWDbP
 user rQVq2zVa
 user 4DnBemcF
@@ -149,7 +147,6 @@ user wn5V7fNr
 user BKXFbSA5
 user F1IdaMlE
 user 6CCMlN5z
-user BKXFbSA5
 user v6ibGeXf
 user rgVyj5mi
 user HLiF0qZZ
@@ -180,7 +177,6 @@ user hEeibPin
 user c44nHGWp
 user sShoOInX
 user bbAejsjC
-user c44nHGWp
 user TlrTvB47
 user RWXV80lM
 user DNtoEKdl
@@ -322,9 +318,7 @@ user cn55ewib
 user SoVRutYI
 user 2gVx7uSq
 user 2JCEKGSG
-user X27bXuSF
 user I5YhIYVC
-user X27bXuSF
 user 7EKGqJT5
 user rUdaHrMv
 user U6MQFITm
@@ -337,7 +331,6 @@ user hVxredE0
 user 21SkJ7YL
 user FZEuaHIH
 user GhlavhSq
-user DV0giF2W
 user Mc9jZF96
 user MZfxxReH
 user GFLE8kks
@@ -353,11 +346,7 @@ org HO7xQzz7
 user sT3oIWve
 user MpM2tNO3
 user zwQFCUfW
-user VGCko50j
-org HO7xQzz7
-user sT3oIWve
 org 5j0t63uo
-org vOyyz9Fx
 user MdUWy2Jg
 user 7tlxBbqS
 org jrLLkNJR
@@ -434,7 +423,6 @@ org f8QDMTYX
 user XGJkzjPc
 user Rw1VPqlQ
 user fmadnh4P
-user YsN5SXk0
 user uchJgos8
 org cuJTnvnL
 user TFM35OfS
@@ -467,7 +455,6 @@ user ddtePWx8
 user Vp0Zwkf9
 org Czh9y3N0
 user P3LFxHRm
-user gF6WZzz2
 user 97bLjHwv
 user 58S3qzaZ
 user NmTIeYJE
@@ -494,11 +481,7 @@ user qBbPrXzV
 user zqchk2o1
 user BY3Q8nLg
 user 8FpMBDXa
-user PBQFL4OQ
-user ZPNsOP7O
-user A2AqNrsS
 user aHqSp8bQ
-user qBbPrXzV
 user z3A0rFZ8
 user SffpX61o
 org umrTG6j3
@@ -508,10 +491,6 @@ user 7OTlYnq4
 user UQK7W6nt
 org fqgvDP95
 user KLOvpkWn
-user UQK7W6nt
-user 7OTlYnq4
-user TFM35OfS
-org cuJTnvnL
 user 8d0HkWe6
 user TsX5Voky
 org Pjq0G7DB
@@ -564,18 +543,15 @@ user noQN0UNk
 user zYBN33TK
 user AVMwN63W
 user qBABaPQy
-user aUV9BSh4
 user 6jFan3HF
 user ngn9PLeq
 user oHo5LkYV
 user urSkwY8Q
-user JrpvqdRM
 user KWnBsEY0
 user mxMchmjj
 user xWCjbYJn
 user gqYXCANe
 user IdFlVBnu
-user fwhYGoHX
 user xyKaZiXU
 user aPDJDjkV
 user PFK8FxQZ
@@ -593,7 +569,6 @@ user aR57dO0s
 user 68S3Suep
 user yum5nFuy
 user 6oB86L4E
-user GMc4mHsr
 user 2IsAOVFn
 user akK6zMr2
 user VUVdhM6k
@@ -621,14 +596,10 @@ user LA9g3BH1
 user o3sXfElA
 user WT8WqrlS
 user d3CbJqRK
-user t3eaFrt1
-user GMc4mHsr
 user joXUZ3st
-user fwhYGoHX
 user cwGiH5q5
 user hsRMwbCl
 user peSgONev
-org 5j0t63uo
 user C6JQtjum
 user Ihg6PAWw
 ; Daily update, woohoo!
@@ -661,7 +632,6 @@ user 9W9eZqqk
 org EpRy9B8e
 user dukLiEms
 user Tx8Fiad2
-user rRljU7NT
 org cdCNhOAf
 user kBAVDgMT
 org uS6BlVMT
@@ -706,17 +676,14 @@ user b6NNRoaP
 user xNqbePxo
 org 6784zEGD
 user RSioFmE0
-user 3QjEOesZ
 user HtFZYHDJ
 user fGrji2GH
 user Wk7i9kyU
 user udIn19vn
-user cmJEkKxw
 user DzEVpHyy
 user F6zVquDZ
 user I46SFSub
 user wTheNjmg
-user 9ct75lyG
 user wrjutfi3
 user 2uAUP1lg
 user eqrzLXWP
@@ -735,13 +702,11 @@ user 3VTsK0cT
 user FWqCuz8q
 user f1G7WWje
 user uMw4eUqK
-user mrLDKDoc
 user DNp0axbO
 user EB7Orz0d
 user 6EDjoUWv
 user 4YlgaT1W
 user yhSUTmvr
-user XKv28iqI
 org ag9d92sk
 user k9t9HyDS
 user N3vQ7vNr
@@ -749,14 +714,12 @@ user lA9izR9W
 user qM3oFmp4
 org EGMmO8z2
 user y4NFgGOB
-user stpNQx7D
 user 90oQrskE
 user wJDLvtr0
 user RNK8om8t
 user 6khjBgAv
 user YR4s1IGE
 user Utsiqrm6
-user DpEuyLbO
 user Zqgo3Zro
 user BoMPCBKS
 org YsphM8sV
@@ -774,22 +737,16 @@ user 9l0fhLV4
 user kcpn6fgu
 user tj3vXPaX
 user ArFZaLv0
-user 7tlxBbqS
 user thOUXDzM
 user evTPomMO
 user QIiAcpR5
 user PpOvNB6l
-user PpOvNB6l
 user Z3VPy916
 org SVDVsyjd
-user QZWzG92Z
 user FU5DrC34
 user akeI7MJC
-user k3hdUr29
 user YSyQmL6M
 user xaZ20vJl
-org KKDtBJSN
-user yazm735r
 user VgCeGrEL
 user Bz2JiSzn
 user lx1lJtRl
@@ -962,7 +919,6 @@ user x8ugguQY
 user ZkY0hbmY
 user RVdkUHFS
 user 4sQu7U38
-user 3JKiebB0
 user 2Lmy3YNf
 user MMggk2w8
 user aF1jp6Jl
@@ -970,8 +926,6 @@ user PkxJvI1Q
 org UTrAht4n
 user te2WdrCv
 user 2L2LZ0ni
-user KjYscEX0
-user CHxpIkpp
 user TulymUYA
 org axnLo49H
 user O1mxgdPV
@@ -984,14 +938,8 @@ user RU3VMhuQ
 user 5tF7irow
 user 5smvsEH8
 user Gcyajprf
-user CHxpIkpp
 user qifiOJtn
-user ZkY0hbmY
 user CEWkjweK
-user vOv8q5Lf
-org Oby2iDZA
-user yUeXZwik
-user x8ugguQY
 
 ; Daily update day 5
 ; The slop has decreased - not thanks to Modrinth. Thanks to me.
@@ -1001,16 +949,12 @@ user x8ugguQY
 ; As of '4 August 2026', Modrinth still hasn't introduced rules or affected any AI slop on their platform.
 ; Thanks for nothing.
 
-user KWnBsEY0
 user YwUA6glr
 user SpzrWRxG
 
 ; Daily update day 6
-user VnEbK8lq
 user I1VsVBbv
 user L0hph3kD
-user YwUA6glr
-user SpzrWRxG
 user FG8RRSnY
 user 2bXX1fvc
 user NG2jxsma
@@ -1020,7 +964,6 @@ user s3CKKhy3
 ; Daily update day 7
 user td0CohyX
 user VVpIEmJ7
-user BJR6fY3h
 user MNpDTcfH
 user 127BgS1j
 user eEkT9vpn
@@ -1028,20 +971,15 @@ org I1ugArnb
 user w1jQPB2w
 user 5OPva5Ya
 user tOiLMnst
-user 5tF7irow
 user SUHu6JVN
 user a9m1nwv3
 user oTadd6G5
 user kDnKfNAA
-user AdRRfRiO
 user Lql2ILyH
 user PxDNZfS6
 user pQKnTLbC
 user 7RfbzBkK
-user 7tlxBbqS
 user UBQFiNpS
-user QJvD0lYe
-user RbTDZovd
 user n8hEMdPs
 
 ; Daily update day 8 [detached]
@@ -1070,46 +1008,33 @@ user 8krPV3iC
 user vX5ys8MY
 user 37NfWWv8
 user JcZ9AaYC
-user 3QjEOesZ
 user X6bK61ae
 user mYEjFfAh
-user Ryn6aYC5
 user vhbjhQ5E
 user lMbdqUki
-user YGses0IO
 user kOE5G2NX
 user 2W6hrbiO
 user iNoZGRb8
 user exjtdDTS
 user lCSH3FOw
 user X6uxw719
-user cUIa2qs0
 user qyOlpcd9
 user ulZsmT62
 user ITcenshF
-user Gcyajprf
 user wbUJuYpr
-user 2r2PpI94
 user QI4oULEC
 user gJgyEvyQ
-user 5tF7irow
 user mB1yfCOT
 user KrHc3mWg
 user v2xvFbv8
-user 7tlxBbqS
-user QJvD0lYe
-user RbTDZovd
 user iaQVrBCd
 user 6InvusKG
 user j8DDfa74
-user 706rpKZw
 org 1Nzgxj3q
-user e1NbqgUB
 user HV5lDXkK
 user PLr9sxli
 user we6tbGyg
 user CKLItR1F
-user 706rpKZw
 user PFgqg5i4
 user wKXaauIw
 user F8eeIEOx
@@ -1117,15 +1042,11 @@ user BRbSCIID
 user nbemCeNp
 user ot0A47ON
 user Aha4cK6X
-user YGses0IO
-user e1NbqgUB
 user 4FTW6MrD
 user JzntPb6f
 user Yk80D51w
 user VsCHEywV
-user xaZ20vJl
 user Jy2tW1AV
-user fQKy1wLK
 user 92MEZIks
 user 3H2xJkCS
 user d2BIYUNL
@@ -1136,7 +1057,6 @@ user z11AqOSp
 user zBJGRclu
 user dr5YwFQt
 user hbTb7p8a
-user TFM35OfS
 user Fp1di8rI
 user vW3JIMuP
 user g1y5jUx1
@@ -1165,13 +1085,10 @@ user mR01sVuS
 user imEgUNlV
 user yx518ynQ
 user Y8mjAugc
-user JXkHSfF4
 user 8ahhQcZV
 user fmMoYsZU
 user OFDdp0At
 user il3lxBbY
-user Y8mjAugc
-user qyxQJfYu
 user xuCxJ4Pe
 user xd99HiV8
 user cWryJ5IR
@@ -1187,8 +1104,6 @@ user c2lewGhg
 ; Daily update day 11
 user ul733F8M
 user PVKvZBwL
-user 2W6hrbiO
-user iNoZGRb8
 user dBWFtitL
 user 3qT1KU8P
 user yp0A60WG
@@ -1198,7 +1113,6 @@ user 87anlEuk
 user RR10PfVd
 user 9H02OnaE
 user V9Vok9vb
-user GHAAxJri
 user z2LWPiNg
 user DmQ70u5u
 user 82vWGmC1
@@ -1206,7 +1120,6 @@ org 9rc2ldo5
 user MUPs0N25
 
 ; Daily update day 12
-user awj5Ejiv
 user uBV1uA0a
 user ltHlOE1k
 user fANAPiZK
@@ -1215,9 +1128,6 @@ user hVAfG5yY
 user Ir8yprIb
 org MFm2uMkB
 user XOsA9BhK
-org Cr765HNg
-user qttuU2oC
-user oByZOglP
 user Z6ct5HjJ
 user Fy05KR90
 user vD5eUANE
@@ -1284,7 +1194,6 @@ user Bt19Wzun
 user n4UZo7Tf
 user VRPbDiAZ
 user QwlFoeMr
-user NccmrgBt
 user qX844O30
 user S5Xc8kFG
 user Fy8lI6ZZ
@@ -1304,7 +1213,6 @@ user eIvHbkFc
 user 9Y5NlxHm
 user Exf1ktRM
 user hBwk60y1
-user mxMchmjj
 org 4YLZzLMa
 user Qdy1pA7v
 user WG5vXbvc
@@ -1325,15 +1233,11 @@ user iCHFX7Yp
 user AbDm9IvG
 user 18KL3zKK
 user UaDS5voB
-user stpNQx7D
 user fAnvnSCb
 user tBG1OFPt
 user KgZPLhXw
-user VVpIEmJ7
 user eZljL82U
 user Z1UQHcFc
-user L0hph3kD
-user PFK8FxQZ
 user Mr7TCnXc
 user zOKu8Y0m
 user D9H9ovXA
@@ -1362,7 +1266,6 @@ user fyZNtcgv
 user 7IUKBp2f
 user RTV6Ezpn
 user cnDdaMZl
-user tNsJBlIh
 user QhvvHlHC
 user 9wG6Lpmm
 user 3fpv29YE
@@ -1370,17 +1273,14 @@ user KtyVNOuI
 user GVRQaKQJ
 user kdyqpc8P
 user Jpc2TAkE
-user T7il8B2p
 user RJuekpHu
 org c3duqdyh
 user SPk0SxP6
 user QWO6PAaH
 user H4cqUeBw
-user mOzJUm89
 user RBD4XaWT
 user XfNftnKt
 user 67hQZa6G
-user XNuqiRS8
 user 6q0OVhV4
 user W8C0IJt6
 user KlA1UcRT
@@ -1399,7 +1299,6 @@ user OQINk4vA
 user KBHJesBj
 user 7T8R796N
 user Bl0nqgSd
-user YKeN2ySB
 user E48JWE5F
 user MkIv9Sip
 user n1ATbORN
@@ -1417,15 +1316,12 @@ user A3L2FYY8
 user 2PCKWu84
 user doWVISXT
 user Sc2FEZnM
-user Ql8Cgveh
 user OhmHyBYl
 user sAniZmNH
-user agheAZ2m
 org aGR0LMQd
 user abHtUmU1
 user BY8QzT8Z
 user d40H3VDe
-user 2IzcGOcv
 user F223QPC3
 org 5iccYU0K
 user I6KnOJRp
@@ -1478,7 +1374,6 @@ user lXiqAKkQ
 user uuNrK08F
 user fn0Gz8lg
 user pCFmwp4i
-user VOk312Pa
 user W1ue1DQ6
 user KfGQKwCv
 user YhO73c8e
@@ -1526,7 +1421,6 @@ user meV3aBg5
 user bVAyp7l6
 user dVLSGpv4
 user fxtlHXN6
-user smluX5pf
 user JVVaZy1x
 user jOg8q79n
 user waUHVdgv
@@ -1539,7 +1433,6 @@ user l8nvAu5B
 user WlAON3dh
 user IDjZkX2P
 user 9Zzx9Cb2
-user jH9hRIsg
 user H9jinlRj
 user 8btni65m
 user JaDONBKg
@@ -1612,9 +1505,6 @@ user vhEZF6ls
 user xMFNfgx6
 user WZoA8rsm
 user A8dnQhdP
-org aGR0LMQd
-user abHtUmU1
-user BY8QzT8Z
 user Ke0ExQqY
 user w6puPadT
 user dHK82UuT
@@ -1626,7 +1516,6 @@ user cEYr8odH
 user h4jBpx2P
 user R76PDSuN
 user 2AtYwEMn
-user SPWdjBnn
 user gq8T2npN
 user 2WT9pKuu
 user TsbaJMZN
@@ -1647,7 +1536,6 @@ user Y9Gvr9J3
 org HgaoSHdR
 user U44pipzK
 user eRhMJQoI
-user O9CylJsP
 user ccBaNCgl
 user MkIfKCL3
 user lmuGNnWw
@@ -1659,7 +1547,6 @@ user GM4Wee24
 user 9DvmTROC
 org W1OBk8GV
 user DTvmvrQM
-user TazOwTAb
 user qzmhDvw4
 user aNKLxHyp
 user uojNAdNp
@@ -1734,9 +1621,7 @@ user OPkeZWfO
 user 40n93iGY
 user 96llURHU
 user At1Qugme
-user d1i0RLDm
 user ImWrgS67
-user AKgJM2W4
 user TEvJ4LS3
 user g3kNlPiR
 user HHaOT2nx
@@ -1757,8 +1642,6 @@ user RKmjiaZf
 user yWa6pl38
 user NhweVz4y
 user WzP7I7qS
-user UKHuVryq
-org ASY777Zm
 user j7cCpUZ7
 user 4IWmzIX8
 user txTg1Ivm
@@ -1768,16 +1651,8 @@ user 6vkN57vm
 ; Daily update day 15
 user YA4Qlb8H
 user fwCwfHJs
-user GeBjnvvF
-org 4Msz76Af
-user PvXUH8Zv
 user p9yvirGd
 user UPY2MZQ8
-org SkbAn2EK
-user Tyltzh3Q
-org 6n2naNbl
-user eGtG4F3c
-user aez8bvsH
 user 41dmqlrv
 user 8O0jvYPd
 user JOs0UIWd
@@ -1785,7 +1660,6 @@ user VmreEftF
 user EC9H7kPd
 user VY5H3nIS
 user qRnfShia
-user r9yCt2Gu
 user bbQu6y27
 user JUXOkwOQ
 user Yez2IDuT
@@ -1798,7 +1672,6 @@ user WLyJAy6V
 user 5mqMkOWm
 
 ; Daily update day 17
-user VmreEftF
 
 ; Daily update day 18
 user Ob9y3e0Y
@@ -1820,10 +1693,8 @@ user i0vGXJks
 user 8cHa9Ayw
 user LEdaCwVo
 user Vzzvqu0O
-user f1G7WWje
 user kFc0bhbw
 user teitvxfX
-user RY3omZoR
 user SGYMJnW0
 
 ; Daily update day 21
@@ -1834,7 +1705,6 @@ user nygK7Knj
 
 ; Daily update day 22
 user fBdgHmps
-user nygK7Knj
 user VVD3EtDw
 user Hpo64OCg
 user 2Ha0ML5e
@@ -1842,7 +1712,6 @@ user 7CO35oZu
 user SZ9TWGFJ
 user c0U8NIJJ
 user zLfsgFYp
-user d1i0RLDm
 user xVL7mcJs
 user 3AKCJFAh
 user bsbj1DgK
@@ -1861,7 +1730,6 @@ user 9bfkgrhT
 user 2EZHTGk1
 user 4iY0sLSp
 user aVQHQva2
-user 8LY7U4GB
 user A4ywncIz
 user P0iMldXy
 user 4uyWLLbt
@@ -1872,7 +1740,6 @@ user bZ7767le
 org JvOXdQct
 user ZtmsKcBd
 user wA73GOUN
-user ObGaSODU
 user fAlzxUZ6
 org SSsiATbh
 user V7wuzQSZ
@@ -1915,7 +1782,6 @@ user xpA3aiu6
 org rl34m4ZF
 user GJfPz85E
 user YOFF1GIQ
-user 6O1UNWCU
 user zFhE9EW3
 user MFI0Wa1b
 user dAEVH9Up
@@ -1958,7 +1824,6 @@ org qC24wtTD
 user hs2A0Rbj
 user PfrKkyuq
 user q8sWOvVX
-user ll7xOEmJ
 user V8Pc4rj9
 user SyiY6xug
 user 8iUNcl5R
@@ -1978,7 +1843,6 @@ user SgrJZ3se
 user EGnGzu4s
 user neU8Samt
 user biT9OZTy
-user O2nDHLiA
 user rZ74vNbK
 user bJEoJUtP
 user L5FnF3DF
@@ -2041,7 +1905,6 @@ user G5M35WYk
 user 1VC27ZvS
 org ZVbnHrYa
 user WuT9u35Z
-user ELTVhXMP
 user aAPpUPNs
 user zHwUX7Bw
 user sy59CKqd
@@ -2080,7 +1943,6 @@ user GhiGtB1A
 user dG1uyxeT
 user Qlm78Gu7
 user UdsOzO2u
-user YOFF1GIQ
 user KpZV1PUp
 user Z74l2Ueb
 user Y46UcNWr
@@ -2105,7 +1967,6 @@ org 8YDOB86v
 user f6ePdNpC
 user 3ptdelfA
 user 9lNSyAPY
-user e9f7vhss
 user FEnv5Dsd
 user J81WXOhm
 user HdIqFrtX
@@ -2118,7 +1979,6 @@ user xRtlBugO
 user jYljCEUV
 user oPDlGYIU
 user U7M4Buuj
-user sNGHFDSL
 user NEBwMi1E
 user HTLRYddT
 org v4lgyPmZ
@@ -2156,12 +2016,6 @@ user 18myeIGg
 user zXGhP6Wp
 
 ; dreamtopolis
-org QgbF5UMu
-user GhiGtB1A
-user 7BduvBo1
-org 3el0SaVo
-org 2wI2soTW
-user lpM3mg2L
 
 ; waysal studios
 org 6V4VIedx
@@ -2222,35 +2076,12 @@ user JEncSFil
 user lrgjxbxc
 
 ; idfk bro
-user TFM35OfS
-org fqgvDP95
-user SffpX61o
-org AidaDqhI
-user 7OTlYnq4
-user UQK7W6nt
-org umrTG6j3
-user uO4m2K3X
-user KLOvpkWn
-user UQK7W6nt
-user 7OTlYnq4
-org cuJTnvnL
-user AwTbY2gt
-user J8N3dqaa
-org f8QDMTYX
-user XGJkzjPc
-user Rw1VPqlQ
 org JZfJcCn5
 user 4XilHHU5
 ; this pluginhub shit is fucking insane
 
 ; 4rubka
 
-user sb1RfB7O
-org k010SlAs
-user dHLIfhpv
-user YXYse7bp
-user s0ktSNxA
-org kEvisZD8
 user KtZbDe6l
 user JD2V9Zeh
 user oZFaWaPI
@@ -2263,7 +2094,6 @@ user oMvI1VY3
 ; cybernetic forge
 org dSNH4b1i
 user 7Lrg2Tu9
-user 2r2PpI94
 user 3J5SU1W2
 
 ; nebulon project
@@ -2278,25 +2108,6 @@ user SKJ9AAvf
 user cXcabPXR
 
 ; customtotems
-user sb1RfB7O
-org k010SlAs
-user dHLIfhpv
-org 1taWurSz
-user FsB9EuBi
-user UGVZsMd6
-user 4j63Bl3f
-org 4glzsKsp
-user CfyNLupt
-user ymM9ll00
-user ZBFXzHYL
-user aFchHwNF
-user YXYse7bp
-user s0ktSNxA
-org kEvisZD8
-user KtZbDe6l
-user JD2V9Zeh
-user oZFaWaPI
-user kDnKfNAA
 
 ; edit modrinth introduced rules against ai ik not really w yet cuz we dont know how it will be but lets hope for the best
 
@@ -2319,7 +2130,6 @@ org 5OZRXkig
 
 ; org eXclusive
 
-user 2uAUP1lg
 org RQp8PJif
 
 ; org TeamEmberveil
@@ -2343,12 +2153,9 @@ org YuUOMqgP
 
 ; org twilight hub
 
-user YrMmUCj3
-org DHE10Xys
 
 ; org random pixel studios
 
-org VS4WdM9d
 user nNWY5vK7
 
 ; org rankedpvp
@@ -2395,19 +2202,14 @@ user 5wBospS5
 
 ; minexlnd
 
-user X56PevrE
 org nzxYGe4z
 org Pt6TBiVo
 
 ; org seidr labs
 
-user HTLRYddT
-org v4lgyPmZ
 
 ; org naizo
 
-user QZWzG92Z
-org SVDVsyjd
 
 ; org player2
 
@@ -2434,7 +2236,6 @@ user aSegDz6f
 
 ; org nao
 
-org q09h7ObO
 user jMei6UUs
 
 ; org maayfteam
@@ -2451,7 +2252,6 @@ user DhoSUFz9
 
 ; org tremendous tweaks
 
-org qH5KgHyT
 user WXUUy7yT
 
 ; I truly hate AI slop.
